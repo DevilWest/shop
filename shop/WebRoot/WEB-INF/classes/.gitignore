@@ -1,0 +1,11 @@
+/action/
+/dao/
+/hibernate.cfg.xml
+/log4j.properties
+/model/
+/proxool.xml
+/spring-actions.xml
+/spring-base.xml
+/spring-dao.xml
+/struts.xml
+/util/
